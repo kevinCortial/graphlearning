@@ -1,1 +1,0 @@
-The goal of this projet is creat clusters into graphs
